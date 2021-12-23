@@ -13,6 +13,9 @@ const wordBlanks =
   myVerb +
   " so " +
   myAdverb +
-  " !"; // Change this line
+  "!"; // Change this line
 // Only change code above this line
 console.log(wordBlanks);
+
+// Only change code below this line
+const myArray = ["JavaScript", 81];
