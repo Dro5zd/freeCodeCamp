@@ -15,3 +15,4 @@ const wordBlanks =
   myAdverb +
   " !"; // Change this line
 // Only change code above this line
+console.log(wordBlanks);
