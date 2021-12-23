@@ -19,3 +19,9 @@ console.log(wordBlanks);
 
 // Only change code below this line
 const myArray = ["JavaScript", 81];
+
+// Only change code below this line
+const myArray1 = [
+  ["Argentina", 5],
+  ["Jamaica", 0],
+];
