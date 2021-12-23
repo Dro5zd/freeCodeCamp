@@ -17,6 +17,7 @@ const wordBlanks =
 // Only change code above this line
 console.log(wordBlanks);
 
+//// МАССИВЫ //////
 // Only change code below this line
 const myArray = ["JavaScript", 81];
 
@@ -25,3 +26,7 @@ const myArray1 = [
   ["Argentina", 5],
   ["Jamaica", 0],
 ];
+
+//обращение к элементу массива
+const myArray2 = [50, 60, 70];
+const myData = myArray2[1];
