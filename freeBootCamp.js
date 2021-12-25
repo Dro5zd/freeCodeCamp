@@ -66,3 +66,13 @@ const myArray5 = [
 // Only change code below this line
 const removedFromMyArraay = myArray5.pop();
 console.log(removedFromMyArraay);
+
+//Удаление первого элемента .shift
+const myArray6 = [
+  ["John", 23],
+  ["dog", 3],
+];
+
+// Only change code below this line
+const removedFromMyArraay2 = myArray6.shift();
+console.log(removedFromMyArraay2);
