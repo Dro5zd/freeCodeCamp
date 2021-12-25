@@ -58,21 +58,34 @@
 //Удаление последней позиции из массива
 
 // Setup
-const myArray5 = [
-  ["John", 23],
-  ["cat", 2],
-];
+// const myArray5 = [
+//   ["John", 23],
+//   ["cat", 2],
+// ];
 
-// Only change code below this line
-const removedFromMyArraay = myArray5.pop();
-console.log(removedFromMyArraay);
+// // Only change code below this line
+// const removedFromMyArraay = myArray5.pop();
+// console.log(removedFromMyArraay);
 
-//Удаление первого элемента .shift
-const myArray6 = [
+// //Удаление первого элемента .shift
+// const myArray6 = [
+//   ["John", 23],
+//   ["dog", 3],
+// ];
+
+// // Only change code below this line
+// const removedFromMyArraay2 = myArray6.shift();
+// console.log(removedFromMyArraay2);
+
+//Добавление элемента в начало массива .unshift()
+
+//Setup
+const myArray7 = [
   ["John", 23],
   ["dog", 3],
 ];
+myArray7.shift();
 
 // Only change code below this line
-const removedFromMyArraay2 = myArray6.shift();
-console.log(removedFromMyArraay2);
+myArray7.unshift(["Paul", 35]);
+console.log(myArray7);
